@@ -1,0 +1,79 @@
+#landing {
+    font-family: 'Montserrat';
+    background-image: url('../../../Images/landing.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    height: 100vh;
+}
+
+#landing hr {
+    height: 3px;
+    background-color: white;
+}
+
+@media (min-width: 1439px) {
+    .smuai {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 1023px) {
+    .smuai {
+        font-size: 45px;
+    }
+
+    .brainstorm {
+        font-size: 40px;
+        padding-top: 50px;
+    }
+}
+
+@media (max-width: 768px){
+    hr {
+        width: 700px;
+    }
+
+    .smuai {
+        font-size: 35px !important;
+    }
+
+    .brainstorm {
+        font-size: 40px;
+        padding-top: 30px;
+    }
+}
+
+@media (max-width: 425px) {
+    .smuai {
+        font-size: 26px !important;
+    }
+
+    .brainstorm {
+        font-size: 25px;
+    }
+
+    hr {
+        width: 350px;
+    }
+}
+
+@media (max-width: 375px) {
+    .smuai {
+        font-size: 25px !important;
+    }
+
+    .brainstorm {
+        font-size: 25px;
+    }
+
+    hr {
+        width: 350px;
+    }
+}
+
+@media (max-width: 320px) {
+    hr {
+        width: 300px;
+    }
+}
