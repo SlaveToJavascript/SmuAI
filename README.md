@@ -3,4 +3,4 @@ Solo project by me for the official website of SMU Artificial Intelligence, a st
 
 Built using React.js and deployed with Netlify.
 
-View website at https://www.SmuAI.me/ and subscribe to our Telegram news bot at https://t.me/SmuAI.
+Feel free to view the site at https://www.SmuAI.me/ and subscribe to our Telegram news bot at https://t.me/SmuAI.
